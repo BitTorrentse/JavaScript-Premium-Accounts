@@ -1,5 +1,5 @@
 Update<br>
-Mar 28, 2014<br>
+Apr 4, 2014<br>
 ===========<br>
 www.batshare.com<br>
 www.cloudzer.net<br>
@@ -11,7 +11,6 @@ www.file4sharing.com<br>
 www.filebigz.com<br>
 www.filecity.net<br>
 www.filehost24.net<br>
-www.fileshareup.com<br>
 www.filesline.com<br>
 www.freestorage.ro<br>
 www.gsmfilehosting.com<br>
@@ -41,7 +40,6 @@ www.temp-share.com<br>
 www.uploadjet.net<br>
 www.vidbox.yt<br>
 www.videoslasher.com<br>
-www.wallobit.com<br>
 www.warserver.cz<br>
 www.wooupload.com<br>
 www.zixshare.com
