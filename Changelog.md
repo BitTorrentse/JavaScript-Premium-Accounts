@@ -2,7 +2,7 @@ Apr 4, 2014<br>
 ============<br>
 Add<br>
 www.bramjkom.com<br>
-fix<br>www.mixture-cloud.com<br>
+fix www.mixture-cloud.com<br>
 www.multiup.org<br>
 www.oboom.com
 Remove<br>
@@ -33,13 +33,13 @@ Remove<br>
 www.fileshareup.com<br>
 www.rocketfile.net<br>
 www.vidbox.yt<br>
-www.wallobit.com
-Mar<br>14,<br>2014<br>
+www.wallobit.com<br>
+Mar 14, 2014<br>
 ============<br>
 Add<br>
 www.file.up09.com<br>
 www.files123.net<br>
-fix<br>www.files2upload.net<br>
+fix www.files2upload.net<br>
 www.goldbytez.com<br>
 www.hostingbulk.com<br>
 www.limefile.com<br>
@@ -53,8 +53,9 @@ Remove<br>
 www.crocko.com<br>
 www.donevideo.com<br>
 www.henchfile.com<br>
-www.limevideo.net
-Mar<br>7,<br>2014<br>
+www.limevideo.net<br>
+Mar 7, 2014<br>
+============<br>
 Add<br>
 www.eyesfiles.com<br>
 www.putlocker.co.in<br>
@@ -63,7 +64,7 @@ www.tropicshare.com<br>
 www.uploadrocket.net
 Remove<br>
 www.extabit.com<br>
-www.eyesfile.ca<br>move<br>to<br>www.eyesfiles.com<br>
+www.eyesfile.ca move to www.eyesfiles.com<br>
 www.file4sharing.com<br>
 www.filecity.net<br>
 www.hostingbulk.com<br>
@@ -74,15 +75,15 @@ www.mediafire.re<br>
 www.megarelease.org<br>
 www.migupload.com<br>
 www.ntupload.to<br>
-www.restfile.ca<br>move<br>to<br>www.restfiles.net<br>
+www.restfile.ca move to www.restfiles.net<br>
 www.shrng.com<br>
 www.srapid.cz<br>
 www.superload.pl<br>
 www.superloading.com<br>
 www.swatupload.com<br>
 www.temp-share.com<br>
-www.up-55.com
-Feb<br>28,<br>2014<br>
+www.up-55.com<br>
+Feb 28, 2014<br>
 ============<br>
 Add<br>
 fix<br>some<br>web<br>on<br>first<br>page<br>
