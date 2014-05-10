@@ -4,7 +4,7 @@ Add<br>
 www.bramjkom.com<br>
 fix www.mixture-cloud.com<br>
 www.multiup.org<br>
-www.oboom.com
+www.oboom.com<br>
 Remove<br>
 www.1000shared.com<br>
 www.donevideo.com<br>
@@ -20,7 +20,7 @@ www.putlocker.co.in<br>
 www.remixshare.com<br>
 ar.rghost.net<br>
 www.storagon.com<br>
-www.upfile.biz
+www.upfile.biz<br>
 Mar 28, 2014<br>
 ============<br>
 Add<br>
@@ -48,7 +48,7 @@ www.sfshare.se<br>
 www.swatupload.com<br>
 www.turo-bit.net<br>
 www.up-55.com<br>
-www.worldbytez.com
+www.worldbytez.com<br>
 Remove<br>
 www.crocko.com<br>
 www.donevideo.com<br>
@@ -61,7 +61,7 @@ www.eyesfiles.com<br>
 www.putlocker.co.in<br>
 www.restfiles.net<br>
 www.tropicshare.com<br>
-www.uploadrocket.net
+www.uploadrocket.net<br>
 Remove<br>
 www.extabit.com<br>
 www.eyesfile.ca move to www.eyesfiles.com<br>
@@ -86,30 +86,30 @@ www.up-55.com<br>
 Feb 28, 2014<br>
 ============<br>
 Add<br>
-fix<br>some<br>web<br>on<br>first<br>page<br>
+fix some web on first page<br>
 www.7rea.com<br>
 www.arabloads.net<br>
 www.filesswap.net<br>
-fix<br>www.inafile.com<br>
+fix www.inafile.com<br>
 www.med1fire.net<br>
 www.medlafire.org<br>
 www.medofire.net<br>
 www.sharerapid.cz<br>
-www.srapid.cz
+www.srapid.cz<br>
 Remove<br>
-www.arabloads.com<br>change<br>to<br>www.arabloads.net<br>
+www.arabloads.com change to www.arabloads.net<br>
 www.cloudzer.net<br>
 www.daj.to<br>
 www.filesline.com<br>
-www.file5wap.com<br>change<br>to<br>www.filesswap.net<br>
-www.filewe.com<br>change<br>to<br>www.nornar.com<br>
+www.file5wap.com change to www.filesswap.net<br>
+www.filewe.com change to www.nornar.com<br>
 www.goldfile.eu<br>
 www.imageshack.us<br>
-www.med1fire.com<br>change<br>to<br>www.med1fire.net<br>
-www.medlafire.co<br>change<br>to<br>www.medlafire.org<br>
-www.medofire.co<br>change<br>to<br>www.medofire.net<br>
-www.nirafile.com
-Feb<br>21,<br>2014<br>
+www.med1fire.com change to www.med1fire.net<br>
+www.medlafire.co change to www.medlafire.org<br>
+www.medofire.co change to www.medofire.net<br>
+www.nirafile.com<br>
+Feb 21, 2014<br>
 ============<br>
 Add<br>
 www.4downfiles.com<br>
@@ -129,22 +129,22 @@ www.vidto.me<br>
 www.vidzbeez.com<br>
 www.vidzi.tv<br>
 www.vodlocker.com<br>
-www.vshare.eu
+www.vshare.eu<br>
 Remove<br>
 www.4share.vn<br>
 www.7rea.com<br>
-www.lumfile.com<br>(eu,se)<br>move<br>to<br>www.terafile.co<br>
-www.megarapid.eu<br>move<br>to<br>www.superbshare.com<br>
-www.rapids.cz<br>move<br>to<br>www.superbshare.com<br>
-www.share-central.cz<br>move<br>to<br>www.superbshare.com<br>
-www.share-credit.cz<br>move<br>to<br>www.superbshare.com<br>
-www.share-net.cz<br>move<br>to<br>www.superbshare.com<br>
-www.sharerapid.cz<br>move<br>to<br>www.superbshare.com<br>
-www.share-rapid.com<br>move<br>to<br>www.superbshare.com<br>
-www.share-rapid.cz<br>move<br>to<br>www.superbshare.com<br>
-www.srapid.cz<br>move<br>to<br>www.superbshare.com<br>
-www.up.4share.vn
-Feb<br>14,<br>2014<br>
+www.lumfile.com (eu,se) move to www.terafile.co<br>
+www.megarapid.eu move to www.superbshare.com<br>
+www.rapids.cz move to www.superbshare.com<br>
+www.share-central.cz move to www.superbshare.com<br>
+www.share-credit.cz move to www.superbshare.com<br>
+www.share-net.cz move to www.superbshare.com<br>
+www.sharerapid.cz move to www.superbshare.com<br>
+www.share-rapid.com move to www.superbshare.com<br>
+www.share-rapid.cz move to www.superbshare.com<br>
+www.srapid.cz move to www.superbshare.com<br>
+www.up.4share.vn<br>
+Feb 14, 2014<br>
 ============<br>
 Add<br>
 www.7rea.com<br>
@@ -155,21 +155,21 @@ www.filecity.net<br>
 www.firedrive.com<br>
 www.movpod.in<br>
 www.sinhro.net<br>
-www.veevr.com
+www.veevr.com<br>
 Remove<br>
 www.batshare.com<br>
 www.embedload.com<br>
 www.packupload.com<br>
-www.putlocker.com<br>move<br>to<br>www.firedrive.com<br>
+www.putlocker.com move to www.firedrive.com<br>
 www.swissload.com
-Feb<br>7,<br>2014<br>
+Feb 7, 2014<br>
 ============<br>
 Add<br>
 www.download.me<br>
 www.dupload.org<br>
 www.extabit.com<br>
 www.fiberupload.net<br>
-www.hellshare.com<br>(cz,pl,sk)<br>
+www.hellshare.com (cz,pl,sk)<br>
 www.idup.in<br>
 www.imzupload.com<br>
 www.packupload.com<br>
@@ -178,13 +178,13 @@ www.queenshare.com<br>
 www.share.az<br>
 www.sharedir.com<br>
 www.slingfile.com<br>
-www.storagon.com
+www.storagon.com<br>
 Remove<br>
 www.debriditalia.com<br>
 www.euroshare.eu<br>
 www.filebase.ws<br>
 www.filehost24.net<br>
-www.filesflash.com<br>(net)<br>
+www.filesflash.com (net)<br>
 www.fileshare.in.ua<br>
 www.fshare.vn<br>
 www.letitbit.net<br>
@@ -199,8 +199,8 @@ www.share-online.biz<br>
 www.sinhro.net<br>
 www.yunfile.com<br>
 www.zippyshare.com<br>
-www.zixshare.com
-Jan<br>24,<br>2014<br>
+www.zixshare.com<br>
+Jan 24, 2014<br>
 ============<br>
 Add<br>
 www.downitfaster.com<br>
@@ -216,8 +216,8 @@ Remove<br>
 www.przeklej.net<br>
 www.senseless.tv<br>
 www.share.az<br>
-www.sharefiles.co
-Jan<br>17,<br>2014<br>
+www.sharefiles.co<br>
+Jan 17, 2014<br>
 ============<br>
 Add<br>
 www.albafile.com<br>
@@ -239,8 +239,8 @@ www.limefile.com<br>
 www.migupload.com<br>
 www.uploadjet.net<br>
 www.videoslasher.com<br>
-www.ziddu.com
-Jan<br>10,<br>2014<br>
+www.ziddu.com<br>
+Jan 10, 2014<br>
 ============<br>
 Add<br>
 www.boxopus.com<br>
@@ -250,7 +250,7 @@ www.filehaste.com<br>
 www.filetug.com<br>
 www.lemuploads.com<br>
 www.mafiastorage.com<br>
-www.megarelease.org
+www.megarelease.org<br>
 Remove<br>
 www.albafile.com<br>
 www.batshare.com<br>
@@ -259,7 +259,7 @@ www.hostinoo.com<br>
 www.kongsifile.com<br>
 www.oteupload.com<br>
 www.speedy-share.com
-Jan<br>3,<br>2014<br>
+Jan 3, 2014<br>
 ============<br>
 Remove<br>
 www.boxopus.com<br>
@@ -267,8 +267,8 @@ www.fiberupload.net<br>
 www.mafiastorage.com<br>
 www.noovashare.com<br>
 www.temp-share.com<br>
-www.warserver.cz
-Dec<br>27,<br>2013<br>
+www.warserver.cz<br>
+Dec 27, 2013<br>
 ============<br>
 Add<br>
 www.cloudyvideos.com<br>
@@ -281,11 +281,11 @@ www.easybytez.com<br>
 www.filebigz.com<br>
 www.gsmfilehosting.com<br>
 www.imzupload.com<br>
-www.wooupload.com
-Dec<br>24,<br>2013<br>
+www.wooupload.com<br>
+Dec 24, 2013<br>
 ============<br>
-Change<br>Code
-Dec<br>20,<br>2013<br>
+Change Code
+Dec 20, 2013<br>
 ============<br>
 Add<br>
 www.dodane.pl<br>
@@ -304,4 +304,3 @@ www.sanshare.com
 Remove<br>
 www.ezzfile.co.nz<br>
 www.fastsonic.net
-
